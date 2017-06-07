@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">IEEE PENC</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string-array name="tab_names">
+        <item>IEEE PENC</item>
+        <item>IEEE TSYPC</item>
+        <item>Location</item>
+    </string-array>
+    <string-array name="content_about">
+        <item>IEEE PES Institut Supérieur des Sciences Appliquées et de Technologie de Sousse “ISSAT Sousse” and Ain Shams University student branch chapters from IEEE Tunisia &amp; Egypt PES Chapters are working together to organize the First Power &amp; Energy Neighbors Congress “PENC”. We are honored that this PENC is organized in joint event with the IEEE Tunisian Student &amp; Young Professional ” TSYP” Congress.\n\n
+
+Under the slogan “Work together .. Energy forever”, also IEEE Tunisian Section celebrates the 4th year of the IEEE Tunisian Student &amp; Young Professional ” TSYP” Congress, the two events will take place through 18 – 21 December 2016 at Diar lemdina hotel ,Hammamet ,Tunisia .\n\n
+
+Power &amp; Energy Neighbors Congress “PENC” is a chance to foster the bonds between the neighboring IEEE PES chapters by giving the opportunity to the PES chapters &amp; student chapters of both the Egyptian and Tunisian to meet and try to solve real energy problems and improve their skills by working together.\n\n
+
+One of the main attributes of IEEE PENC is its rich program. This year we are proud to host a program focused on tackling the“Power and Energy problems and the Sustainability Challenges ” by innovative utilization of technology solutions; presented by local , international speakers and the students who have innovative ideas.\n\n
+
+
+
+We are looking forward to see you !
+        </item>
+        <item>
+            The purpose of IEEE Tunisian Student &amp; Young professional congress “TSYPC” is to help students gain further insight, enabling exchange of knowledge and skills. The plenary sessions and Sessions in this congress will not only put their focus on research and technological developments, but also career issues and the importance of developing the so-called soft skills. By offering an interesting mix of speeches given by international and well known academically and industrial speakers, we want to give our participants a broad pallet in which both academically and industrial input is implemented in the debates. In this way, the event offers a unique opportunity to represent the vision of industrial speakers.\n\n
+
+The vision of organizing such a congress is for networking between IEEE members and volunteers. Increasing knowledge among IEEE Tunisian Student Branches s about IEEE programs and how they can be implemented and applied in their universities and communities.Experiencing such an event benefits the attendees in many fields (Technical and Non-Technical) through knowledge and engagement in some IEEE programs related to those fields.\n\n
+
+The IEEE Tunisian Student &amp; Young professional congress 2016 in its 4th edition is an opportunity for engineering students &amp; engineers where more than 400 IEEE students and young professionals meet together to network and learn more about the IEEE benefits and to discuss present and future engineering challenges. The program will includes technical, professional, educational, and social activities. Sessions will be presented by highly qualified national and international speakers. The program includes also a competition between IEEE student branches in Tunisia in order to select the student branch which will organize the next IEEE Tunisian Student and Young Professionals congress.\n\n
+        </item>
+        <item>
+            This modern hotel in a block-style building is 1 km from both Carthageland Hammamet and Port Yasmine Hammamet, as well as 9 km from Kasbah of Hammamet.\n\n
+
+The posh suites come with free Wi-Fi, flat-screens with satellite channels and minibars, plus terraces and kitchenettes. Upgraded suites offer separate bedroom and living rooms with pull-out couches.\n\n
+
+Amenities include an outdoor pool with a sundeck, a children’s pool and live entertainment, plus a beach club with dining, a bar and an exercise room. The elegant restaurants served Tunisian cuisine.\n\n
+Address: Diar Lemdina Hotel Hammamet, Rue de la Médina, Yasmine 8056, Tunisia\n
+Phone: +216 72 241 000
+        </item>
+    </string-array>
+    <string-array name="titles_about">
+        <item>IEEE PENC</item>
+        <item>IEEE TSYPC</item>
+        <item>Diar Lemdina Hotel , El Hammamet , Tunisia</item>
+    </string-array>
+    <string-array name="faq_questions">
+        <item>When will be the check in and check out?</item>
+        <item>How to register in the IEEE PENC?</item>
+        <item>How much is the registration fees?</item>
+        <item>Who is the contact person?</item>
+    </string-array>
+    <string-array name="faq_answers">
+        <item>Check in would be in 17 December 2016, and check out would be 22 December</item>
+        <item>Please , contact the IEEE PES Ain Shams Uni. student branch chapter if you are from Egypt ,or contact IEEE PES ISSAT Sousse student branch chapter if you are from Tunisia.</item>
+        <item> For IEEE PES Student Member (free)
+            For non IEEE PES Student Member (5 DNT) =(40 EGP)</item>
+        <item>eng.m.seif@ieee.org (Egyptian team leader)
+            or manel.rabhi.tn@ieee.org (Tunisia team leader)</item>
+    </string-array>
+    <string-array name="time1">
+        <item>12:00</item>
+        <item>15:00</item>
+        <item>15:15</item>
+        <item>16:00</item>
+        <item>16:30</item>
+        <item>19:30</item>
+    </string-array>
+    <string-array name="content1">
+        <item>Registration [take into consideration the security entrance time]</item>
+        <item>Opening [All plenary sessions in Hannibal room]</item>
+        <item>IEEE presentation</item>
+        <item>Coffee Break &amp; student activities booths SB contest phase 1</item>
+        <item>[Hannibal room] Professional Talks:
+              - Me, my life, and my career, by Nadhem Bardaa (Section PA officer)
+              - What the CEO want?, by Hedi Gaaya (Les Grands Moulins du Cap Bon, Tunisia)
+
+            [Olivier room] Intelligent Power Servers for PES, by Mahmoud Hammouda (ISSAT Sousse, Tunisia)</item>
+        <item>IEEE Tunisia Section Awards ceremony / Gala Dinner</item>
+    </string-array>
+    <string-array name="time2">
+        <item>08:30</item>
+        <item>09:00</item>
+        <item>09:45</item>
+        <item>10:30</item>
+        <item>11:00</item>
+        <item>11:45</item>
+        <item>12:30</item>
+        <item>14:30</item>
+        <item>15:30</item>
+        <item>16:30</item>
+        <item>18:00</item>
+        <item>19:00</item>
+        <item>21:00</item>
+    </string-array>
+    <string-array name="content2">
+        <item>SB contest phase 2 [for Student Branch officers]</item>
+        <item>Cloud Computing, by Mohamed Ali Chouchane (Cloud Temple, Tunisia)</item>
+        <item>[Hannibal room] Laboratory Experimentation and Real-Time Computing: Hands-on Experience, by Ahmed Rubaai (Howard University, USA; IAS Publications chair)
+            [Olivier room] Renewable Energy Challenge, by Chokri Ben Salah (ISSAT Sousse, Tunisia)</item>
+        <item>Coffee break</item>
+        <item>Who is Who, or Can Be, in "ICT Education"?, by Edmundo Tovar Caro (IEEE Education Society, Vice President of Educational Activities, Distinguished Lecturer)</item>
+        <item>[Hannibal room] How can biosensor design be adapted to specific compound detection?, by Yasmine Soussi (ULT, Tunisia)
+            [Olivier room] Soft skills Workshop: Women in Power, by Najeh Chatti (ISTL Sousse, Tunisia)</item>
+        <item>Lunch (group 1 at 12:30 &amp; group 2 at 13:30)</item>
+        <item>Unleashing the power of Internet of Things: challenges and key technology enablers, by Bechir Hamdaoui (Oregon State University, USA; IEEE Communications Society Distinguished Lecturer)</item>
+        <item>[Hannibal room] Communication process, by Eya Mahjoubi Chahed (Polytech Sousse, Tunisia)
+           [Olivier room] About Power and Energy Society and Membership </item>
+        <item>Women in Engineering session, by IEEE WIE Tunisia affinity group</item>
+        <item>Announcement of the 3 selected SB for the phase 3</item>
+        <item>Dinner (group 1 at 19:00 and group 2 at 20:00)</item>
+        <item>Networking</item>
+    </string-array>
+    <string-array name="time3">
+        <item>09:00</item>
+        <item>12:00</item>
+        <item>12:00</item>
+        <item>12:15</item>
+    </string-array>
+    <string-array name="content3">
+        <item>Humanitarian activities, by IEEE SIGHT Tunisia group officers</item>
+        <item>SB contest phase 3 - Debate</item>
+        <item>Voting</item>
+        <item>Closing</item>
+    </string-array>
+</resources>
